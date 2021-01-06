@@ -10,7 +10,7 @@ In Course, “Data Understanding and Preparation,” you derived a new view for 
 product categories. These features are the starting point from which you are going to perform cluster analysis. In the following subsections, you re-create 
 that view and prepare the data that is needed to conduct classification analysis.
 
-[Data Understanding and Preparation Code] (https://github.com/AbdullaElshourbagy/Retailer-X-Exploratory-Analysis-and-Data-Preparation)
+[Data Understanding and Preparation Code](https://github.com/AbdullaElshourbagy/Retailer-X-Exploratory-Analysis-and-Data-Preparation)
 
 In the last course, you used a prepared Jupyter Notebook to run code to replicate the results. In this course, you write code by copying the code lines in this section 
 to a notebook file.
